@@ -2,7 +2,7 @@
 
 Este proyecto contiene definiciones de DDD y conceptos fundamentales con los que poder reducir tanto la curva de aprendizaje como el desconcierto. 
 
-![DDD en una página](resources/ddd_en_una_pagina.jpg)
+![DDD en una página](recursos/ddd_en_una_pagina.png)
 
 ## Comenzando con DDD
 
